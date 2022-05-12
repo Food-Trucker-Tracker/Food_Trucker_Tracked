@@ -11,7 +11,7 @@ https://youtu.be/4y_eQymuSCU
 
 ## Overview
 ### Description
-Food Trucker Tracked is your one-stop app for finding the best food trucks near you. Search for local food trucks by distance, cuisine, price range, and more!
+Food Trucker Tracked is your one-stop app for finding the best food trucks near you. Search for local food trucks by distance, cuisine, and more!
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
